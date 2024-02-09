@@ -21,6 +21,7 @@ This is a Python implementation of the classic Tic Tac Toe game with an AI oppon
 
 ```bash
 git clone https://github.com/Mohammed-majeed/Tic-tac-toe-with-Ollama.git
+```
 
 ## Run
 
